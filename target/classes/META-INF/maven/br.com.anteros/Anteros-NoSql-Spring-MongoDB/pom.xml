@@ -17,9 +17,9 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
-	<name>Anteros NoSQL Spring</name>
+	<name>Anteros NoSQL Spring MongoDB</name>
 	<description>
-         Anteros NoSQL Spring.
+         Anteros NoSQL Spring MongoDB
     </description>
 	<organization>
 		<name>Anteros Tecnologia</name>
@@ -35,9 +35,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git@github.com:anterostecnologia/anterosnosqlspring.git</connection>
-		<developerConnection>scm:git:git@github.com:anterostecnologia/anterosnosqlspring.git</developerConnection>
-		<url>https://github.com/anterostecnologia/anterosnosqlspring</url>
+		<connection>scm:git:git@github.com:anterostecnologia/anterosnosqlspringmongodb.git</connection>
+		<developerConnection>scm:git:git@github.com:anterostecnologia/anterosnosqlspringmongodb.git</developerConnection>
+		<url>https://github.com/anterostecnologia/anterosnosqlspringmongodb</url>
 	</scm>
 
 	<developers>
